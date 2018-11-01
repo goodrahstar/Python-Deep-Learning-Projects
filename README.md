@@ -36,6 +36,7 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 
 **Abhishek Nagaraja**
 * LinkedIn : https://www.linkedin.com/in/abhishek-nagaraja-4325aa110/
+* Github: https://github.com/anagar20
 ---- 
 
 ### Table of contents 
@@ -73,7 +74,10 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 
 > Matthew Lamons: Matthew@skejul.com
 
+![image] [image-2]
+
 [image-1]:	https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788997096.png  "Python Deep Learning Projects"
+[image-2]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/blob/master/images/footer.png "Authors"
 
 [1]:	www.hellorahulk.com "Rahul Kumar Profile"
 [2]:	https://www.linkedin.com/in/matthew-lamons/ "Matthew Lamons"
