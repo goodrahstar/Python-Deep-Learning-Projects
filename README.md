@@ -54,16 +54,16 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 
 
 #### Feel Free to contact us if you have any question:
-**Matthew Lamons**
+> **Matthew Lamons**
 * LinkedIn : https://www.linkedin.com/in/matthew-lamons/
 
-**Rahul Kumar** 
+> **Rahul Kumar** 
 * Github: https://github.com/goodrahstar
 * LinkedIn : https://www.linkedin.com/in/hellorahlk/
 * Medium : https://medium.com/@hellorahulk
 * Twitter : https://twitter.com/hellorahulk
 
-**Abhishek Nagaraja**
+> **Abhishek Nagaraja**
 * LinkedIn : https://www.linkedin.com/in/abhishek-nagaraja-4325aa110/
 * Github: https://github.com/anagar20
 
