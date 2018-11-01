@@ -74,6 +74,6 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 [image-1]:	https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788997096.png  "Python Deep Learning Projects"
 [image-2]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/blob/master/images/footer.png?raw=true "Authors"
 
-[1]:	www.hellorahulk.com "Rahul Kumar Profile"
+[1]:	http://www.hellorahulk.com "Rahul Kumar Profile"
 [2]:	https://www.linkedin.com/in/matthew-lamons/ "Matthew Lamons"
 [3]:	https://www.linkedin.com/in/abhishek-nagaraja-4325aa110/ "Abhishek Nagaraja"
