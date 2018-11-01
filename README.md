@@ -3,7 +3,7 @@
 
 ISBN 13: 9781788997096 
 
-Authors: [Rahul Kumar][1] & [Matt Fanli Ramsey][2] & [Abhishek Nagaraja][3]
+Authors: [Rahul Kumar][1] & [Matthew Lamons][2] & [Abhishek Nagaraja][3]
    
 
 ## Getting Started
