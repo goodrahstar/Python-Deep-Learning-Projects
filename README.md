@@ -23,33 +23,32 @@ You will be successful in this course if you have a basic knowledge of computer 
 In this course, you will need a Google Cloud free tier account. Note that you won't be charged by creating the account. Instead, you can get `$300` credit to spend on Google Cloud Platform for 12 months and access to the Always Free tier to try participating products at no charge. By going through this course, you will probably need to spend at most `$50` out of your `$300` free credit. 
 
 ---- 
-### Table of contents 
+### Table of content 
 
 **SECTION I – [Python deep learning – building the foundation]** 
-- Chapter 1 : Building Deep Learning Environment 
-- Chapter 2 : Training NN for Prediction using Regression 
+- Chapter 1 : [Building Deep Learning Environment][4]
+- Chapter 2 : [Training NN for Prediction using Regression][5]
 ---
 
 **SECTION II – [Python deep learning – NLP]** 
-- Chapter 3 : Word representation using word2vec
-- Chapter 4 : Build NLP pipeline for building chatbots
-- Chapter 5 : Sequence-to-sequence models for building chatbots
-- Chapter 6 : Generative Language Model for Content Creation
-- Chapter 7 : Building Speech Recognition with DeepSpeech2 
+- Chapter 3 : [Word representation using word2vec][6]
+- Chapter 4 : [Build NLP pipeline for building chatbots][7]
+- Chapter 5 : [Sequence-to-sequence models for building chatbots][8]
+- Chapter 6 : [Generative Language Model for Content Creation][9]
+- Chapter 7 : [Building Speech Recognition with DeepSpeech2 ][10]
 ---
 
 **SECTION II – [Deep learning – Computer Vision]**
-- Chapter 8 : Handwritten Digits Classification Using ConvNets
-- Chapter 9 : Object Detection using OpenCV and TensorFlow
-- Chapter 10: Building Face Recognition using Facenet 
-- Chapter 11: Automated Image Captioning 
-- Chapter 12: Pose Estimation on 3D models using ConvNets
-- Chapter 13: Image translation using GANs for style transfer
+- Chapter 8 : [Handwritten Digits Classification Using ConvNets][11]
+- Chapter 9 : [Object Detection using OpenCV and TensorFlow][12]
+- Chapter 10: [Building Face Recognition using Facenet][13]
+- Chapter 11: [Automated Image Captioning][14]
+- Chapter 12: [Pose Estimation on 3D models using ConvNets][15]
+- Chapter 13: [Image translation using GANs for style transfer][16]
 ---
 
 **SECTION IV – [Python deep learning – Reinforcement Learning]**
-- Chapter 14: Develop an Autonomous Agents with Deep R Learning
-- Chapter 15: Summary And Next Steps In Your Deep Learning Career 
+- Chapter 14: [Develop an Autonomous Agents with Deep R Learning][17]
 ---
 
 
@@ -77,3 +76,17 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 [1]:	http://www.hellorahulk.com "Rahul Kumar Profile"
 [2]:	https://www.linkedin.com/in/matthew-lamons/ "Matthew Lamons"
 [3]:	https://www.linkedin.com/in/abhishek-nagaraja-4325aa110/ "Abhishek Nagaraja"
+[4]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter01
+[5]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter02
+[6]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter03
+[7]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter04
+[8]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter05
+[9]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter06
+[10]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter07
+[11]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter08
+[12]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter09
+[13]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter10
+[14]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter11
+[15]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter12
+[16]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter13
+[17]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter14      
