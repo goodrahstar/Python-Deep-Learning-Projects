@@ -23,22 +23,6 @@ You will be successful in this course if you have a basic knowledge of computer 
 In this course, you will need a Google Cloud free tier account. Note that you won't be charged by creating the account. Instead, you can get `$300` credit to spend on Google Cloud Platform for 12 months and access to the Always Free tier to try participating products at no charge. By going through this course, you will probably need to spend at most `$50` out of your `$300` free credit. 
 
 ---- 
-
-### Authors
-**Rahul Kumar** 
-* Github: https://github.com/goodrahstar
-* LinkedIn : https://www.linkedin.com/in/hellorahlk/
-* Medium : https://medium.com/@hellorahulk
-* Twitter : https://twitter.com/hellorahulk
-
-**Matthew Lamons**
-* LinkedIn : https://www.linkedin.com/in/matthew-lamons/
-
-**Abhishek Nagaraja**
-* LinkedIn : https://www.linkedin.com/in/abhishek-nagaraja-4325aa110/
-* Github: https://github.com/anagar20
----- 
-
 ### Table of contents 
 
 **SECTION I – [Python deep learning – building the foundation]** 
@@ -70,9 +54,20 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 
 
 #### Feel Free to contact us if you have any question:
-> Rahul Kumar: official.rahulk@gmail.com | www.hellorahulk.com
+**Matthew Lamons**
+* LinkedIn : https://www.linkedin.com/in/matthew-lamons/
 
-> Matthew Lamons: Matthew@skejul.com
+**Rahul Kumar** 
+* Github: https://github.com/goodrahstar
+* LinkedIn : https://www.linkedin.com/in/hellorahlk/
+* Medium : https://medium.com/@hellorahulk
+* Twitter : https://twitter.com/hellorahulk
+
+**Abhishek Nagaraja**
+* LinkedIn : https://www.linkedin.com/in/abhishek-nagaraja-4325aa110/
+* Github: https://github.com/anagar20
+
+
 
 ![image1][image-2] 
 
