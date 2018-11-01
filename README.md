@@ -1,6 +1,6 @@
 # Python Deep Learning Projects 
 ![image1][image-1] 
-
+ISBN 13: 9781788997096
 Authors: [Rahul Kumar][1] & [Matt Fanli Ramsey][2] & [Abhishek Nagaraja][3]
    
 
