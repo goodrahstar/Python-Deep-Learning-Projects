@@ -45,7 +45,7 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 - Chapter 7 : [Building Speech Recognition with DeepSpeech2 ][10]
 ---
 
-**SECTION II – [Deep learning – Computer Vision]**
+**SECTION II – [Python deep learning – Computer Vision]**
 - Chapter 8 : [Handwritten Digits Classification Using ConvNets][11]
 - Chapter 9 : [Object Detection using OpenCV and TensorFlow][12]
 - Chapter 10: [Building Face Recognition using Facenet][13]
