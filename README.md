@@ -22,9 +22,6 @@ We approach deep learning projects from a very practical point of view. In think
 Tools and frameworks like, `Keras`, `TensorFlow`, and `Google Cloud` are used to showcase the strengths of various approaches covering `NLP`, `CV` and `ASR`.
 
 
-* Link to Packt Publishing: http://bit.ly/DeepLearningProjects
-* Link to Amazon: https://www.amazon.com/Python-Deep-Learning-Projects-Architectures/dp/1788997093
-
 ### Prerequisites
 This course is for intermediate machine learners like if you've undertaken at least one course in machine learning and have a modest functional proficiency in Python (meaning you can create programs in Python when supported by examples). Many of our readers will be undergraduates at university studying computer science, statistics, mathematics, physics, biology, chemistry, marketing, and business.
 
