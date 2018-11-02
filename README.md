@@ -7,8 +7,7 @@ This is the code repository for [Python Deep Learning Projects](https://www.pack
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788997093) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
+![image1][image-2] 
 
 ISBN 13: 9781788997096 
 
@@ -71,6 +70,7 @@ Matthew Lamons's background is in experimental psychology and deep learning. Fou
 * LinkedIn : https://www.linkedin.com/in/matthew-lamons/
 
 > **Rahul Kumar** 
+
 Rahul Kumar is an AI scientist, deep learning practitioner, and independent researcher. His expertise in building multilingual NLU systems and large-scale AI infrastructures has brought him to Copenhagen, where he leads a large team of AI engineers as Chief AI Scientist at Jatana. Often invited to speak at AI conferences, he frequently travels between India, Europe, and the US where, among other research initiatives, he collaborates with The Intelligence Factory as NLP data science fellow. Keen to explore the ramifications of emerging technologies for his next book, he's currently involved in various research projects on Quantum Computing (QC), high-performance computing (HPC), and the brain-computer interaction (BCI).
 
 * Github: https://github.com/goodrahstar
@@ -79,6 +79,7 @@ Rahul Kumar is an AI scientist, deep learning practitioner, and independent rese
 * Twitter : https://twitter.com/hellorahulk
 
 > **Abhishek Nagaraja** 
+
 Abhishek Nagaraja was born and raised in India. Graduated Magna Cum Laude from the University of Illinois at Chicago, United States, with a Masters Degree in Mechanical Engineering with a concentration in Mechatronics and Data Science. Abhishek specializes in Keras and TensorFlow for building and evaluation of custom architectures in deep learning recommendation models. His deep learning skills and interest span computational linguistics and NLP to build chatbots to computer vision and reinforcement learning. He has been working as a Data Scientist for Skejul Inc. building an AI-powered activity forecast engine and engaged as a Deep Learning Data Scientist with The Intelligence Factory building solutions for enterprise clients.
 
 * LinkedIn : https://www.linkedin.com/in/abhishek-nagaraja-4325aa110/
