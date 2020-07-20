@@ -54,7 +54,7 @@ In this course, you will need a Google Cloud free tier account. Note that you wo
 - Chapter 13: [Image translation using GANs for style transfer][16]
 ---
 
-**SECTION IV – [Python deep learning – Reinforcement Learning]**
+**SECTION III – [Python deep learning – Reinforcement Learning]**
 - Chapter 14: [Develop an Autonomous Agents with Deep R Learning][17]
 ---
 
