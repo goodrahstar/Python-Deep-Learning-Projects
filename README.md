@@ -84,7 +84,8 @@ Abhishek Nagaraja was born and raised in India. Graduated Magna Cum Laude from t
 
 
 
-![image1][image-1] 
+
+![image1][image-2] 
 
 [image-1]:	https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781788997096.png  "Python Deep Learning Projects"
 [image-2]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/blob/master/images/footer.png?raw=true "Authors"
