@@ -106,5 +106,3 @@ Abhishek Nagaraja was born and raised in India. Graduated Magna Cum Laude from t
 [15]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter12
 [16]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter13
 [17]: https://github.com/goodrahstar/Python-Deep-Learning-Projects/tree/master/Chapter14      
-
-<a href="https://tracking.gitads.io/?repo=Python-Deep-Learning-Projects/"> Checkout <img src="https://images.gitads.io/draw-neural-network/" alt="GitAds"/></a>
